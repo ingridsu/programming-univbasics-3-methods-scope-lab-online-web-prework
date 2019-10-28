@@ -10,4 +10,5 @@ def link
   puts message
 end
 def any_phrase
-  puts
+  puts phrase
+end
