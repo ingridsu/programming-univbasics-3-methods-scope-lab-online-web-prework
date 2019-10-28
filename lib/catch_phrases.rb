@@ -5,11 +5,13 @@ def mario
 end
 
 def toadstool
+  local_variable=status
   puts status
 end
 def link
   puts message
 end
 def any_phrase
+  local_variable=phrase
   puts phrase
 end
