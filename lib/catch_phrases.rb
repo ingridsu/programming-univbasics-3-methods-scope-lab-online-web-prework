@@ -9,4 +9,5 @@ end
 def link
   puts message
 end
-def
+def any_phrase
+  puts
